@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f419445-acc7-4cee-8d82-24dced5cf803" name="Changes" comment="third lesson 2 task homework">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson3_hw3.py" afterDir="false" />
+    <list default="true" id="6f419445-acc7-4cee-8d82-24dced5cf803" name="Changes" comment="third lesson 3 task homework">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson4_hw1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,9 +68,11 @@
     "Python.lesson2.executor": "Run",
     "Python.lesson2_hw1.executor": "Run",
     "Python.lesson2_hw2.executor": "Run",
+    "Python.lesson3.executor": "Run",
     "Python.lesson3_hw1.executor": "Run",
     "Python.lesson3_hw2.executor": "Run",
     "Python.lesson3_hw3.executor": "Run",
+    "Python.lesson4_hw1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -81,8 +84,8 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lesson3_hw3">
-    <configuration name="lesson1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.lesson4_hw1">
+    <configuration name="lesson3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study-python-fastapi" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,31 +100,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lesson2_hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study-python-fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson2_hw1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,13 +181,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson4_hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study-python-fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson4_hw1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson4_hw1" />
+        <item itemvalue="Python.lesson3" />
         <item itemvalue="Python.lesson3_hw3" />
         <item itemvalue="Python.lesson3_hw2" />
         <item itemvalue="Python.lesson3_hw1" />
-        <item itemvalue="Python.lesson2_hw1" />
-        <item itemvalue="Python.lesson1" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +302,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782575111053</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="third lesson 3 task homework">
+      <option name="closed" value="true" />
+      <created>1782592624460</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1782592624460</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,7 +334,8 @@
     <MESSAGE value="second lesson homework" />
     <MESSAGE value="third lesson homework" />
     <MESSAGE value="third lesson 2 task homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="third lesson 2 task homework" />
+    <MESSAGE value="third lesson 3 task homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="third lesson 3 task homework" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
