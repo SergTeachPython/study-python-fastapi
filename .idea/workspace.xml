@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f419445-acc7-4cee-8d82-24dced5cf803" name="Changes" comment="lesson 5 hw 2">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson5_hw3.py" afterDir="false" />
+    <list default="true" id="6f419445-acc7-4cee-8d82-24dced5cf803" name="Changes" comment="lesson 5 hw 3">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson6_hw1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +80,7 @@
     "Python.lesson5_hw1.executor": "Run",
     "Python.lesson5_hw2.executor": "Run",
     "Python.lesson5_hw3.executor": "Run",
+    "Python.lesson6_hw1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -91,31 +92,7 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.lesson5_hw3">
-    <configuration name="lesson5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study-python-fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.lesson6_hw1">
     <configuration name="lesson5_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study-python-fastapi" />
       <option name="ENV_FILES" value="" />
@@ -212,13 +189,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson6_hw1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study-python-fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson6_hw1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson6_hw1" />
         <item itemvalue="Python.lesson5_hw3" />
         <item itemvalue="Python.lesson5_hw2" />
         <item itemvalue="Python.lesson5_hw1" />
         <item itemvalue="Python.lesson5_1" />
-        <item itemvalue="Python.lesson5" />
       </list>
     </recent_temporary>
   </component>
@@ -365,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783284981037</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="lesson 5 hw 3">
+      <option name="closed" value="true" />
+      <created>1783286620739</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1783286620739</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,7 +405,8 @@
     <MESSAGE value="lesson 4 hw 3 edit" />
     <MESSAGE value="lesson 5 hw 1" />
     <MESSAGE value="lesson 5 hw 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 5 hw 2" />
+    <MESSAGE value="lesson 5 hw 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 5 hw 3" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
