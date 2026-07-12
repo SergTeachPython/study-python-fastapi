@@ -1,5 +1,8 @@
 def correct_sentence(text):
-
+    new_text = text[:1].upper() + text[1:]
+    if text[-1:] != ".":
+        new_text += "."
+    return new_text
 
 
 assert correct_sentence("greetings, friends") == "Greetings, friends.", 'Test1'
