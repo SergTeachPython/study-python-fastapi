@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f419445-acc7-4cee-8d82-24dced5cf803" name="Changes" comment="lesson 15 hw2 ver1">
-      <change afterPath="$PROJECT_DIR$/lessons/lesson15_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson15_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson16_hw1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lessson15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/module_lesson15_hw2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/module_lesson15_hw2/group.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/module_lesson15_hw2/group_limit_reached_exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/module_lesson15_hw2/human.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/module_lesson15_hw2/student.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/module_lesson15_hw2/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/study-python-fastapi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/study-python-fastapi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson16_hw2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,6 +89,7 @@
     "Python.lesson15_2.executor": "Run",
     "Python.lesson15_hw1.executor": "Run",
     "Python.lesson16_hw1.executor": "Run",
+    "Python.lesson16_hw2.executor": "Run",
     "Python.lesson2.executor": "Run",
     "Python.lesson2_hw1.executor": "Run",
     "Python.lesson2_hw2.executor": "Run",
@@ -154,7 +144,7 @@
       <recent name="C:\Users\sergo\PycharmProjects\study-python-fastapi\lessons" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lesson16_hw1">
+  <component name="RunManager" selected="Python.lesson16_hw2">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study-python-fastapi" />
       <option name="ENV_FILES" value="" />
@@ -171,30 +161,6 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/module_lesson15_hw2/__init__.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="group" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="study-python-fastapi" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons/module_lesson15_hw2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/module_lesson15_hw2/group.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -251,6 +217,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="lesson16_hw2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="study-python-fastapi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lessons" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lessons/lesson16_hw2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="study-python-fastapi" />
       <option name="ENV_FILES" value="" />
@@ -277,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lesson16_hw2" />
         <item itemvalue="Python.lesson16_hw1" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.__init__" />
         <item itemvalue="Python.group_limit_reached_exception" />
-        <item itemvalue="Python.group" />
       </list>
     </recent_temporary>
   </component>
@@ -730,5 +720,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="str(f_c)" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
